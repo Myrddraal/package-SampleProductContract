@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+Projects:
+  SampleProductContract: SampleProductContract.csproj
+
+Version: 1.0.0

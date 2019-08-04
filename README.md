@@ -1,2 +1,2 @@
-# package-SampleContract
-Sample contract for CutAndDry
+# package-SampleProductContract
+Sample contract for CutAndDRY
